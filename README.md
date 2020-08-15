@@ -5,9 +5,15 @@ Food classes include:
 
 'Yam and egg sauce', 'Yam pottage', 'Rice and stew', 'fufu pounded yam and egusi', 'Jollof rice', 'fried rice', 'eba-fufu and afang-vegetable soup', 'eba-fufu and draw-okra soup','eba-fufu and ogbono soup', 'eba-fufu and oha soup', 'yam_potato and beans porridge', 'beans and fried plantain', 'soaked garri, groundnut and sugar', 'moi moi', 'amala and ewedu', 'pap-custard-akamu', 'Indomie with vegetables and egg', 'pounded yam and ofe riro', 'akara', 'abacha-african salad', 'masa', 'fried potato-yam', 'ukwa', 'catfish pepper soup', 'boiled plantain and sauce', 'rice and beans', 'beans porridge', 'bread and egg', 'spaghetti', 'okpa', 'pounded yam-fufu and white soup- ofe nsala', 'Vegetable salad', 'plantain and egg sauce', 'boiled-roasted corn', 'No identified Nigerian dish'
 
-The tmp folder containes the test image to be predicted: image.jpg
 
-To run:
+The tmp folder contains the test image to be predicted: image.jpg
+
+The model folder contains the pickcle file of the trained model
+
+The Resources folder contains the jupyter notebook used for training the model
+
+
+### To run:
 
 Download code
 
