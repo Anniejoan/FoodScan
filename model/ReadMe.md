@@ -1,1 +1,1 @@
-Contained the saved model
+Contains the saved model
